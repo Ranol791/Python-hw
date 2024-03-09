@@ -1,4 +1,4 @@
-# python-hw 1
+PyBank Python activity
 Instructions
 This assignment has two parts:
 Read the Data
