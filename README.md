@@ -1,8 +1,9 @@
-#PyBank Python activity
+PyBank Python activity
+
+
 Instructions
 This assignment has two parts:
 Read the Data
-
 Manipulate the Data
 
 Part 1: Read the Data
